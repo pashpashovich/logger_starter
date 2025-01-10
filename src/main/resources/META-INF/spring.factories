@@ -1,0 +1,4 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  ru.clevertec.init.LoggingEnvironmentPostProcessor
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+  ru.clevertec.init.LoggingFailureAnalyzer
